@@ -11,9 +11,9 @@ export const NAV = [
 ];
 
 export const CONTACT = {
-  name: "Pandurang Pawar",
-  phone: "+91 75886 94993",
-  tel: "+917588694993",
+  name: "Team MahaViral",
+  phone: "+91 98922 09783",
+  tel: "+919892209783",
   by: "By- C Road Solutions and Team – Mahaviral",
 };
 
