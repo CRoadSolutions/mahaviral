@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+# Source proposal (client document, not published)
+*.pdf
+
+# Local editor/agent config
+.claude/
